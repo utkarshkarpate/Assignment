@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-17T21:10:48 IST" name="Default suite" finished-at="2020-08-17T21:10:55 IST" duration-ms="7483">
+    <groups>
+    </groups>
+    <test started-at="2020-08-17T21:10:48 IST" name="Default test" finished-at="2020-08-17T21:10:55 IST" duration-ms="7483">
+      <class name="zestMoneyAssignmentTest">
+        <test-method is-config="true" signature="setBaseURI()[pri:0, instance:zestMoneyAssignmentTest@3793b953]" started-at="2020-08-17T21:10:48 IST" name="setBaseURI" finished-at="2020-08-17T21:10:48 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseURI -->
+        <test-method signature="compareJSONResponses()[pri:0, instance:zestMoneyAssignmentTest@3793b953]" started-at="2020-08-17T21:10:48 IST" name="compareJSONResponses" finished-at="2020-08-17T21:10:55 IST" duration-ms="7412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareJSONResponses -->
+        <test-method is-config="true" signature="closeFilses()[pri:0, instance:zestMoneyAssignmentTest@3793b953]" started-at="2020-08-17T21:10:55 IST" name="closeFilses" finished-at="2020-08-17T21:10:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFilses -->
+      </class> <!-- zestMoneyAssignmentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
